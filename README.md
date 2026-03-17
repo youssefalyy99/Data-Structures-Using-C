@@ -5,6 +5,8 @@
 
 📂 The repository is divided into different folders, each containing its own implementation along with applications of the data structure.
 
+Note : All implementations are written from scratch without using any built-in libraries.
+
 
 
 ## ✈️ Features
