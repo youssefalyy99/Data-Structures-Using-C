@@ -30,4 +30,9 @@ This repository is designed to help beginners develop a solid understanding of d
 * Memory management concepts and best practices in C
 * The differences between various data structures and their use cases
 
+## 📂 Folder Structure
+- Implementation of the data structures
+- Examples using them
+- README containing explanations
 
+What are you waiting for? Start learning your Data Structures NOW! 👀
