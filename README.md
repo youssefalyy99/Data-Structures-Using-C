@@ -14,6 +14,7 @@ Note : All implementations are written from scratch without using any built-in l
 - Stacks
 - Queues
 - Linked List
+- Trees (BST - AVL)
 
 
 ## FAQ
